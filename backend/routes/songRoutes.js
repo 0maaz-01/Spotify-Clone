@@ -1,16 +1,7 @@
 import express from "express";
 import { isAuth } from "../../middlewares/isAuth.js";
 import uploadFile from "../../middlewares/multer.js";
-import {
-  addSong,
-  addThumbnail,
-  createAlbum,
-  deleteSong,
-  getAllAlbums,
-  getAllSongs,
-  getAllSongsByAlbum,
-  getSingleSong,
-} from "../../controllers/songControllers.js";
+import {addSong, addThumbnail, createAlbum, deleteSong, getAllAlbums, getAllSongs, getAllSongsByAlbum, getSingleSong} from "../../controllers/songControllers.js";
 
 const router = express.Router();
 
