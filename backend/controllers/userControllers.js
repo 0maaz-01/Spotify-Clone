@@ -11,7 +11,7 @@ export const registerUser = TryCatch(async (req, res) => {
   if (user)
     return res.status(400).json({
       message: "User Already Exists",
-    });
+    }); 
 
   const hashPassword = await bcrypt.hash(password, 10);
 
