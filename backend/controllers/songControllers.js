@@ -9,7 +9,7 @@ export const createAlbum = TryCatch(async (req, res) => {
     return res.status(403).json({
       message: "You are not admin",
     });
- 
+
   const { title, description } = req.body;
 
   const file = req.file;

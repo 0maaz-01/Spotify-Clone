@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
-import connectDb from "../database/db.js";
+import connectDb from "./database/db.js";
 import cookieParser from "cookie-parser";
 import cloudinary from "cloudinary";
 import path from "path";
@@ -15,14 +15,17 @@ cloudinary.v2.config({
 
 const app = express();
 
+// using middlewares
 app.use(express.json());
 app.use(cookieParser());
 
 const port = process.env.PORT;
 
+//importing routes
 import userRoutes from "./routes/userRoutes.js";
 import songRoutes from "./routes/songRoutes.js";
 
+//using routes
 app.use("/api/user", userRoutes);
 app.use("/api/song", songRoutes);
 
