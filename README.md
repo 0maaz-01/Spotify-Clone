@@ -86,7 +86,7 @@ This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Ex
  
 ---
 
-**Installation & Setup**
+## **Setup**
 
 **Environment Variables (Backend):**  
 Create a `.env` file in the `server/` directory and include:
@@ -103,53 +103,55 @@ PORT = 5000
 ## Installation 🛠️ :
 You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
-React :
-   
-`npm create vite@latest my-app -- --template react`
-<br>
-`cd my-app`
-<br>
-`npm install`
-<br>
-`npm run dev`
+### ✅ Backend dependencies:
+
+- **bcrypt**  
+  `npm install bcrypt`
+
+- **cloudinary**  
+  `npm install cloudinary`
+
+- **cookie-parser**  
+  `npm install cookie-parser`
+
+- **datauri**  
+  `npm install datauri`
+
+- **dotenv**  
+  `npm install dotenv`
+
+- **express**  
+  `npm install express`
+
+- **jsonwebtoken**  
+  `npm install jsonwebtoken`
+
+- **mongoose**  
+  `npm install mongoose`
+
+- **multer**  
+  `npm install multer`
 
 
-Tailwind CSS :
-      <br>
-   `npm install -D tailwindcss@3 postcss autoprefixer`
-     <br>
-    `npx tailwindcss init  -p`
+### 🌐 Frontend dependencies:
 
-Mongoose : 
-<br>
-   `npm install mongoose`
+- **axios**  
+  `npm install axios`
 
-Express :
-<br>
-   `npm install express`
+- **react**  
+  `npm install react`
 
-JWT :
-<br>
-   `npm install jsonwebtoken`
+- **react-dom**  
+  `npm install react-dom`
 
-Axios :
-   `npm install jsonwebtoken`
+- **react-hot-toast**  
+  `npm install react-hot-toast`
 
-React Router :
-<br>
-`npm install react-router-dom`
+- **react-icons**  
+  `npm install react-icons`
 
-Lucide React :
-<br>
- `npm install lucide-react`
-
- React Hot Toast :
- <br>
-`npm install react-hot-toast`
-
-Bcrypt JS : 
-<br>
-`npm install bcryptjs`
+- **react-router-dom**  
+  `npm install react-router-dom`
 
 ---
 
