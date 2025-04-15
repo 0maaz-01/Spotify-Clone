@@ -98,9 +98,13 @@ npm install
 **Environment Variables (Backend):**  
 Create a `.env` file in the `server/` directory and include:
 
-```env
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
+```.env
+MONGO_URL = link to your database
+Jwt_secret = a 6 to 32 characters long eky which can contain numbers and letters for hashing the password 
+Cloud_Name = name of your cloud
+Cloud_Api = api key of your cloud
+Cloud_Secret = api secret key of your cloud
+PORT = 5000
 ```
 
 **Run the App:**
@@ -134,5 +138,3 @@ Feel free to contribute to improve this clone:
 MIT License © 2025 [Your Name]
 
 ---  
-
-Let me know if you need further adjustments!
