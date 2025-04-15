@@ -52,7 +52,7 @@ This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Ex
 ---
 
 
-## **Tech Stack**
+## Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind)
 
@@ -69,7 +69,7 @@ This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Ex
 
 ---
 
-## **Desktop View : **
+## Desktop View :
 <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/Home%20Page.png" width="400" height="240"> <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/Added%20Songs.png" width="400" height="240">
 <br>
 <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/Admin%20Dashboard.png" width="400" height="240">  <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/Your%20Playlist.png" width="400" height="240">
@@ -80,12 +80,12 @@ This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Ex
 
 ---
 
-## **Mobile View**
+## Mobile View
 <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/IMG-20250415-WA0005.jpg" width="220" height="500">  <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/IMG-20250415-WA0002.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/IMG-20250415-WA0003.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/IMG-20250415-WA0004.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/IMG-20250415-WA0001.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/6.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/IMG-20250415-WA0006.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Spotify-Clone/blob/main/Spotify%20Clone/IMG-20250415-WA0007.jpg" width="220" height="500"> 
  
 ---
 
-## **Setup**
+## Setup :
 
 **Environment Variables (Backend):**  
 Create a `.env` file in the `server/` directory and include:
