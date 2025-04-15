@@ -63,7 +63,6 @@ This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Ex
 - **JWT**: Authentication & authorization.  
 - **Axios**: HTTP requests for data fetching.  
 - **Tailwind CSS**: Fast and responsive UI styling.  
-- **React Router**: Client-side navigation.  
 - **Bcrypt.js**: Password hashing.  
 - **React Hot Toast**: Pop-up notifications.  
 - **Lucide React**: Modern icons for controls and UI.  
