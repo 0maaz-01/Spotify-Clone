@@ -92,10 +92,10 @@ const Admin = () => {
           />
         </div>
         <div className="mb-4">
-          <label className="block text-sm font-medium mb-1">Descripiton</label>
+          <label className="block text-sm font-medium mb-1">Description</label>
           <input
             type="text"
-            placeholder="Descripiton"
+            placeholder="Description"
             className="auth-input"
             value={description}
             onChange={(e) => setDescription(e.target.value)}
@@ -141,10 +141,10 @@ const Admin = () => {
           />
         </div>
         <div className="mb-4">
-          <label className="block text-sm font-medium mb-1">Descripiton</label>
+          <label className="block text-sm font-medium mb-1">Description</label>
           <input
             type="text"
-            placeholder="Descripiton"
+            placeholder="Description"
             className="auth-input"
             value={description}
             onChange={(e) => setDescription(e.target.value)}
