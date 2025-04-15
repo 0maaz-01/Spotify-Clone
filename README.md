@@ -7,12 +7,12 @@ This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Ex
 ## **Features & Highlights:**
 
 ### 1. **Admin Panel**  
-  - Add, edit, or remove **songs** and **playlists**. 
+  - Add, edit, or remove **songs**. 
    - Manage song metadata (title, artist, album, artwork, etc.).  
    - Fully protected and accessible only to admin users.
 
 ### 2. **User Playlists**  
-   - Users can create, update, and delete their own playlists.  
+   - Each user can add or remove their preferred songs in the playlist.
    - Add/remove songs to/from playlists easily.
 
 ### 3. **User Authentication**  
@@ -21,7 +21,7 @@ This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Ex
 
 ### 4. **Responsive UI**  
    - Mobile-first design using **TailwindCSS**.  
-   - Works smoothly across devices.
+   - Works smoothly across devices of all screen sizes.
 
 ---
 
