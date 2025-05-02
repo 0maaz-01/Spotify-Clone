@@ -4,7 +4,7 @@
 
 # **Spotify Clone ( Full-Stack Web App )** 🎧💻
 
-This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. It offers a complete music streaming experience with 🎶 **song playback**, 📃 **custom playlists**, 🔐 **secure authentication**, 🛡️ **admin controls**, and a 📱 **responsive UI**.  
+This is a full-stack **Spotify Clone** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. It offers a complete music streaming experience with 🎶 **song playback**, 📃 **custom playlists**, 🔐 **secure authentication**, 🛡️ **admin controls**, and a 📱 **responsive UI**.   
 
 ### Key pages include:  
 🏠 **Home Page** for the main content, ⚙️ **Admin Dashboard** for content management, 📑 **Playlist Page** for curated tracks by user, **Album Page** that displays the details related to the album.
