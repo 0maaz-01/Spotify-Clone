@@ -5,7 +5,7 @@ import { assets } from "../assets/assets";
 import { FaBookmark, FaPlay } from "react-icons/fa";
 import { UserData } from "../context/User";
 
-const PlayList = ({ user }) => {
+const PlayList = ({ user }) => { 
   const { songs, setSelectedSong, setIsPlaying } = SongData();
 
   const [myPlaylist, setMyPlaylist] = useState([]);
